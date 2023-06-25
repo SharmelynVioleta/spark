@@ -1,0 +1,1 @@
+Para poder ejecutar el código con Spark, es necesario comprimir el archivo CSV en un archivo ZIP. Este paso es necesario para que Spark pueda trabajar con el archivo comprimido de manera eficiente.
